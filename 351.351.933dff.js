@@ -3126,17 +3126,16 @@
         g = s(6341);
       const h = {
           desktop: [
-            "Discover all that $RedFeg has to offer with your Chumbi",
-            "companions by your side.",
+            "Discover all that $RedFeg ",
+        
           ],
           tablet: [
             "Discover all that $RedFeg has to offer",
-            "with your$RedFegcompanions by your side.",
+  ,
           ],
           mobile: [
             "Discover all that $RedFeg",
-            "has to offer with your Chumbi",
-            "companions by your side.",
+        
           ],
         },
         b = (e) => {
