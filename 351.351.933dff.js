@@ -2076,13 +2076,13 @@
         _ = s(52764);
       const k = {
           desktop: [
-            "DegeSino isn't just another casino – it's the nexus where classic gaming meets the avant-garde world of Web3. Born out of a passion for both the thrill of casino games and the potential of blockchain technology, DegeSino represents a new era of play-to-earn experiences. Here, players not only indulge in the excitement of the game but also have the opportunity to earn tangible rewards, all while being part of a decentralized gaming revolution.",
+            "$RedFeg isn't just another $RedFeg – it's the nexus where classic gaming meets the avant-garde world of Web3. Born out of a passion for both the thrill of $RedFeg games and the potential of blockchain technology, $RedFeg represents a new era of play-to-earn experiences. Here, players not only indulge in the excitement of the game but also have the opportunity to earn tangible rewards, all while being part of a decentralized gaming revolution.",
           ],
           tablet: [
-            "DegeSino isn't just another casino – it's the nexus where classic gaming meets the avant-garde world of Web3. Born out of a passion for both the thrill of casino games and the potential of blockchain technology, DegeSino represents a new era of play-to-earn experiences. Here, players not only indulge in the excitement of the game but also have the opportunity to earn tangible rewards, all while being part of a decentralized gaming revolution.",
+            "$RedFeg isn't just another $RedFeg – it's the nexus where classic gaming meets the avant-garde world of Web3. Born out of a passion for both the thrill of $RedFeg games and the potential of blockchain technology, $RedFeg represents a new era of play-to-earn experiences. Here, players not only indulge in the excitement of the game but also have the opportunity to earn tangible rewards, all while being part of a decentralized gaming revolution.",
           ],
           mobile: [
-            "DegeSino isn't just another casino – it's the nexus where classic gaming meets the avant-garde world of Web3. Born out of a passion for both the thrill of casino games and the potential of blockchain technology, DegeSino represents a new era of play-to-earn experiences. Here, players not only indulge in the excitement of the game but also have the opportunity to earn tangible rewards, all while being part of a decentralized gaming revolution.",
+            "$RedFeg isn't just another $RedFeg – it's the nexus where classic gaming meets the avant-garde world of Web3. Born out of a passion for both the thrill of $RedFeg games and the potential of blockchain technology, $RedFeg represents a new era of play-to-earn experiences. Here, players not only indulge in the excitement of the game but also have the opportunity to earn tangible rewards, all while being part of a decentralized gaming revolution.",
           ],
         },
         j = (e) => {
@@ -2373,7 +2373,7 @@
                     }),
                     (0, r.jsxs)(_.X, {
                       priority: null == e ? void 0 : e.loadingPrio,
-                      alt: "Moon chasing aDegeSinoin the forest. TheDegeSinohas stolen one of Moon's carrots and is holding it in it’s mouth while mischievously running away.",
+                      alt: "Moon chasing a$RedFegin the forest. The$RedFeghas stolen one of Moon's carrots and is holding it in it’s mouth while mischievously running away.",
                       ref: C,
                       children: [
                         (0, r.jsx)("source", {
@@ -2454,14 +2454,14 @@
         y = {
           desktop: [
             "be your most loyal and loving companions as you journey through",
-            "the valley. Breed and raise newDegeSinoon your farm and set out",
+            "the valley. Breed and raise new$RedFegon your farm and set out",
             "together to unlock every item, feature and secret this enchanting",
             "world has to offer.",
           ],
           tablet: [
             "creatures who will be your most loyal and loving",
             "companions as you journey through the valley.",
-            "Breed and raise newDegeSinoon your farm and",
+            "Breed and raise new$RedFegon your farm and",
             "set out together to unlock every item, feature",
             "and secret this enchanting world has to offer.",
           ],
@@ -2470,7 +2470,7 @@
             "who will be your most loyal and",
             "loving companions as you journey",
             "through the valley. Breed and raise",
-            "newDegeSinoon your farm and set",
+            "new$RedFegon your farm and set",
             "out together to unlock every item,",
             "feature and secret this enchanting",
             "world has to offer.",
@@ -2619,7 +2619,7 @@
                       (0, r.jsx)("h2", {
                         className: "title-h1 cards-section__title",
                         ref: _,
-                        children: "Our games...",
+                        children: "$RedFeg...",
                       }),
                       S &&
                         (0, r.jsxs)("p", {
@@ -2890,7 +2890,7 @@
                     }),
                     (0, r.jsxs)(i.X, {
                       priority: null == e ? void 0 : e.loadingPrio,
-                      alt: "A void and neutralDegeSinowalking in the grass facing the sunset in the middle of the valley",
+                      alt: "A void and neutral$RedFegwalking in the grass facing the sunset in the middle of the valley",
                       className: "character",
                       children: [
                         (0, r.jsx)("source", {
@@ -2927,7 +2927,7 @@
                           className:
                             "community-section__contents__title title-h1",
                           ref: s,
-                          children: "Join the DegeSino",
+                          children: "Join the $RedFeg",
                         }),
                         (0, r.jsx)("p", {
                           className: "community-section__contents__text desc-1",
@@ -3126,15 +3126,15 @@
         g = s(6341);
       const h = {
           desktop: [
-            "Discover all that DegeSino has to offer with your Chumbi",
+            "Discover all that $RedFeg has to offer with your Chumbi",
             "companions by your side.",
           ],
           tablet: [
-            "Discover all that DegeSino has to offer",
-            "with yourDegeSinocompanions by your side.",
+            "Discover all that $RedFeg has to offer",
+            "with your$RedFegcompanions by your side.",
           ],
           mobile: [
-            "Discover all that DegeSino",
+            "Discover all that $RedFeg",
             "has to offer with your Chumbi",
             "companions by your side.",
           ],
@@ -3855,7 +3855,7 @@
                     }),
                     (0, r.jsxs)(u.X, {
                       priority: 1,
-                      alt: "Moon, the main character of DegeSino and her 3DegeSinolooking out over the valley",
+                      alt: "Moon, the main character of $RedFeg and her 3$RedFeglooking out over the valley",
                       className: "cliff parallax-item",
                       children: [
                         (0, r.jsx)("source", {
@@ -3960,7 +3960,7 @@
                           "combinations-section__desc desc-1 color-white",
                         ref: x,
                         children:
-                          "Combining the 15 mainDegeSinotypes with hundreds of coats, body parts, and patterns results in almost infinite unique Chumbi!",
+                          "Combining the 15 main$RedFegtypes with hundreds of coats, body parts, and patterns results in almost infinite unique Chumbi!",
                       }),
                     ],
                   }),
@@ -4007,12 +4007,12 @@
       const j = {
           desktop: {
             p1: [
-              "$DGNO is DegeSino's on-chain token",
+              "$RedFeg is $RedFeg's on-chain token",
               "and is deeply tied into every aspect of the",
               "Chumbi ecosystem.",
             ],
             p2: [
-              "$DGNO will facilitate gamers and investors",
+              "$RedFeg will facilitate gamers and investors",
               "alike to get the most out of their journey",
               "through the valley by giving access to a",
               "variety of future opportunities, products",
@@ -4021,11 +4021,11 @@
           },
           tablet: {
             p1: [
-              "$DGNO is DegeSino's on-chain token and is deeply",
-              "tied into every aspect of theDegeSinoecosystem.",
+              "$RedFeg is $RedFeg's on-chain token and is deeply",
+              "tied into every aspect of the$RedFegecosystem.",
             ],
             p2: [
-              "$DGNO will facilitate gamers and investors alike to get",
+              "$RedFeg will facilitate gamers and investors alike to get",
               "the most out of their journey through the valley by",
               "giving access to a variety of future opportunities, products",
               "and features.",
@@ -4033,12 +4033,12 @@
           },
           mobile: {
             p1: [
-              "$DGNO is DegeSino's primary",
+              "$RedFeg is $RedFeg's primary",
               "token and is deeply tied into every",
-              "aspect of theDegeSinoecosystem.",
+              "aspect of the$RedFegecosystem.",
             ],
             p2: [
-              "$DGNO will facilitate gamers and",
+              "$RedFeg will facilitate gamers and",
               "investors alike to get the most out",
               "of their journey through the valley",
               "by giving access to a variety of",
@@ -4199,7 +4199,7 @@
                     }),
                     (0, r.jsxs)(k.X, {
                       priority: null == e ? void 0 : e.loadingPrio,
-                      alt: "Main character on a path near some ruins, putting a coin in the basket that his frostDegeSinois holding",
+                      alt: "Main character on a path near some ruins, putting a coin in the basket that his frost$RedFegis holding",
                       ref: E,
                       className: "main-img",
                       children: [
@@ -4245,7 +4245,7 @@
                             className:
                               "token-section__contents__title title-h1 center-text",
                             ref: T,
-                            children: "About $DGNO Token",
+                            children: "About $RedFeg Token",
                           }),
                         ],
                       }),
@@ -4357,7 +4357,7 @@
               (0, r.jsx)(o.Z, { loadingPrio: 2 }),
               (0, r.jsx)(c.Z, { loadingPrio: 2 }),
               (0, r.jsx)(m.Z, {
-                title: " DegeSino's Decentralized Delight Awaits....",
+                title: " $RedFeg's Decentralized Delight Awaits....",
             
                 lines: !0,
               }),
@@ -4437,7 +4437,7 @@
             { title: "About", isDropdown: !1, linkTo: r.$ },
          
           ],
-          navCtaBtn: { title: "Buy $DGNO", linkTo: r.$.Tokens + "#" },
+          navCtaBtn: { title: "Buy $RedFeg", linkTo: r.$.Tokens + "#" },
           bannerContent: {
             title: "Join our community!",
             cta: "",
@@ -4453,12 +4453,12 @@
           },
           socials: {
             twitter: {
-              link: "https://twitter.com/DegeSino",
+              link: "https://twitter.com/$RedFeg",
               imgSrc: `${s(23325)}`,
             },
  
             telegram: {
-              link: "https://t.me/DegeSino01",
+              link: "https://t.me/$RedFeg01",
               imgSrc: `${s(77451)}`,
             },
  
@@ -4504,7 +4504,7 @@
               imgSrcJpg: `${s(88721)}`,
               imgSrcWebp: `${s(42774)}`,
               imgAlt:
-                "A SparkDegeSinoin front of a table with many ressources and ingredients ready to craft something",
+                "A Spark$RedFegin front of a table with many ressources and ingredients ready to craft something",
               title: "Interoperable Assets",
               desc: {
                 desktop:
@@ -4529,15 +4529,15 @@
               title: "Seamless Integration",
               desc: {
                 desktop:
-                  "Dive into intuitive gameplay with easy-to-use interfaces, optimized for both seasoned crypto enthusiasts and casino lovers.",
+                  "Dive into intuitive gameplay with easy-to-use interfaces, optimized for both seasoned crypto enthusiasts and $RedFeg lovers.",
                 tablet: [
-                  "Dive into intuitive gameplay with easy-to-use interfaces, optimized for both seasoned crypto enthusiasts and casino lovers.",
+                  "Dive into intuitive gameplay with easy-to-use interfaces, optimized for both seasoned crypto enthusiasts and $RedFeg lovers.",
                 ],
                 mobile: [
                   "Dive into intuitive gameplay with",
                   "easy-to-use interfaces, optimized for",
                   "both seasoned crypto enthusiasts",
-                  "and casino lovers.",
+                  "and $RedFeg lovers.",
                 
                 ],
               },
@@ -4560,21 +4560,21 @@
           
           ],
           desc: [
-            "The Roulette wheel at DegeSino isn't just a game; it's an experience. As the ball dances across the numbers, players will feel the exhilaration synonymous with traditional casinos, but with a twist. Each spin is recorded on the blockchain, ensuring unparalleled transparency and fairness. ",
+            "The Roulette wheel at $RedFeg isn't just a game; it's an experience. As the ball dances across the numbers, players will feel the exhilaration synonymous with traditional $RedFegs, but with a twist. Each spin is recorded on the blockchain, ensuring unparalleled transparency and fairness. ",
             "Enter the digital realm of DegenSino's Slots, where each pull of the lever could lead to a jackpot or a unique crypto reward. Our slots are more than just flashy graphics and sounds; they're a gateway to a decentralized world of chance and fortune.",
-            "These wondrous, verdantDegeSinofind their home in the lush, rugged forests and gentle meadows of the valley. They are loyal and dedicated wardens that serve as the keepers of seedlings and ancient trees alike.",
-            "These shy, burrowingDegeSinowatch over the vast and mysterious realm of the subterranean. Therefore, these hard working excavators play an unseen yet important role in tending to the valley's underground domain.",
-            "Temperamental, mischievous and energetic, SparkDegeSinoare considered the embodiment of nature's fury. They bring life to powerful thunderstorms and excel at clearing grounds to provide the necessary conditions for new life to thrive.",
-            "For centuries these resilient and patient guardians have served as the valley's rocky shield and watchful eye. As such, these vigilant and steadfastDegeSinodwell on the highest of cliffs, quietly gazing upon valley.",
-            "Adaptable and clever, NeutralDegeSinoare resourceful jack-of-all-trades who work to preserve balance within the valley. These kind beings are far from boring and plain, instead, they fill a wide range of roles as needed.",
-            "These industrious and diligentDegeSinocan be seen traversing the entire valley in order to ensure that seeds are spread and plants are pollinated and fertilized. What's more, they produce a delicious syrup beloved by all Chumbi.",
-            "FeatherDegeSinoare the watchful children of the sky. These keen and independent avian-like beings are the guardians and guides of the winds and clouds, moving rain and pollen to where they need to be. They also happen to be excellent singers.",
-            "FrostDegeSinoare the heralds of winter and protectors of the valley's icy alpine glaciers. These cheerful beings march down into the valley each year to bring snow and facilitate hibernation, rest and recovery for nature.",
-            "The creative and elegant CrystalDegeSinoare the embodiment of the valley's raw beauty. They gather and shape unrefined spiritual essence from the Primordial Tree's roots, binding it into gorgeous and potent formations of arcane crystal and ore.",
-            "FlowerDegeSinoare the fragrant Harbingers of spring that paint the valley in a vivid palette of colors each year, after winter. These gentle, caring beings embody new life and are responsible for tending to the valley's many flowers and fruits.",
-            "Stewards of the wild and master of the feral beast, CreatureDegeSinowatch over the myriad of animals that dwell within the rocky walls of the valley. Although generally laid back, they are fierce and highly protective when provoked.",
-            "Mischievous, intelligent and curious, SpiritDegeSinoare the mysterious stewards of the arcane and magical aspects of the valley. They absorb lunar energy from the moon and stars and weave it into potent spirit energy.",
-            "VoidDegeSinoare the enigmatic revenants of the unknown. These rare nocturnalDegeSinoare largely misunderstood as the haunting realm of Void still holds many secrets, all of which kept by these frightening yet beautiful beings.",
+            "These wondrous, verdant$RedFegfind their home in the lush, rugged forests and gentle meadows of the valley. They are loyal and dedicated wardens that serve as the keepers of seedlings and ancient trees alike.",
+            "These shy, burrowing$RedFegwatch over the vast and mysterious realm of the subterranean. Therefore, these hard working excavators play an unseen yet important role in tending to the valley's underground domain.",
+            "Temperamental, mischievous and energetic, Spark$RedFegare considered the embodiment of nature's fury. They bring life to powerful thunderstorms and excel at clearing grounds to provide the necessary conditions for new life to thrive.",
+            "For centuries these resilient and patient guardians have served as the valley's rocky shield and watchful eye. As such, these vigilant and steadfast$RedFegdwell on the highest of cliffs, quietly gazing upon valley.",
+            "Adaptable and clever, Neutral$RedFegare resourceful jack-of-all-trades who work to preserve balance within the valley. These kind beings are far from boring and plain, instead, they fill a wide range of roles as needed.",
+            "These industrious and diligent$RedFegcan be seen traversing the entire valley in order to ensure that seeds are spread and plants are pollinated and fertilized. What's more, they produce a delicious syrup beloved by all Chumbi.",
+            "Feather$RedFegare the watchful children of the sky. These keen and independent avian-like beings are the guardians and guides of the winds and clouds, moving rain and pollen to where they need to be. They also happen to be excellent singers.",
+            "Frost$RedFegare the heralds of winter and protectors of the valley's icy alpine glaciers. These cheerful beings march down into the valley each year to bring snow and facilitate hibernation, rest and recovery for nature.",
+            "The creative and elegant Crystal$RedFegare the embodiment of the valley's raw beauty. They gather and shape unrefined spiritual essence from the Primordial Tree's roots, binding it into gorgeous and potent formations of arcane crystal and ore.",
+            "Flower$RedFegare the fragrant Harbingers of spring that paint the valley in a vivid palette of colors each year, after winter. These gentle, caring beings embody new life and are responsible for tending to the valley's many flowers and fruits.",
+            "Stewards of the wild and master of the feral beast, Creature$RedFegwatch over the myriad of animals that dwell within the rocky walls of the valley. Although generally laid back, they are fierce and highly protective when provoked.",
+            "Mischievous, intelligent and curious, Spirit$RedFegare the mysterious stewards of the arcane and magical aspects of the valley. They absorb lunar energy from the moon and stars and weave it into potent spirit energy.",
+            "Void$RedFegare the enigmatic revenants of the unknown. These rare nocturnal$RedFegare largely misunderstood as the haunting realm of Void still holds many secrets, all of which kept by these frightening yet beautiful beings.",
           ],
         },
         a = [];
@@ -4872,7 +4872,7 @@
           output: {
             path: "index.html",
             href: "/",
-            title: "DegeSino",
+            title: "$RedFeg",
             description:
               "",
             image: "chumbi-valley-og.jpg",
@@ -4903,9 +4903,9 @@
           output: {
             path: "tokens/index.html",
             href: "/tokens",
-            title: "$DGNO Token & Lucky Stars - DegeSino",
+            title: "$RedFeg Token & Lucky Stars - $RedFeg",
             description:
-              "Discover how DegeSino's on-chain token and off-chain currency are deeply integrated into every aspect of the DegeSino ecosystem",
+              "Discover how $RedFeg's on-chain token and off-chain currency are deeply integrated into every aspect of the $RedFeg ecosystem",
             image: "chumbi-valley-og.jpg",
             imageWidth: 1200,
             imageHeight: 630,
@@ -4918,7 +4918,7 @@
           output: {
             path: "chumbi/index.html",
             href: "/chumbi",
-            title: "Chumbi types and characteristics - DegeSino",
+            title: "Chumbi types and characteristics - $RedFeg",
             description:
               "Discover all the unique properties of the guardians of the valley and learn about their spiritual connection to the land",
             image: "chumbi-valley-og.jpg",
@@ -4933,9 +4933,9 @@
           output: {
             path: "gallery/index.html",
             href: "/gallery",
-            title: "Art & fan-art gallery - DegeSino",
+            title: "Art & fan-art gallery - $RedFeg",
             description:
-              "Discover the latest art, screenshots and illustrations from our game and from theDegeSinocommunity",
+              "Discover the latest art, screenshots and illustrations from our game and from the$RedFegcommunity",
             image: "chumbi-valley-og.jpg",
             imageWidth: 1200,
             imageHeight: 630,
@@ -4948,9 +4948,9 @@
           output: {
             path: "lore/index.html",
             href: "/lore",
-            title: "Lore Stories and mysteries of the valley - DegeSino",
+            title: "Lore Stories and mysteries of the valley - $RedFeg",
             description:
-              "Immerse yourself in the ancient knowledge and engaging stories of DegeSino",
+              "Immerse yourself in the ancient knowledge and engaging stories of $RedFeg",
             image: "chumbi-valley-og.jpg",
             imageWidth: 1200,
             imageHeight: 630,
@@ -4963,9 +4963,9 @@
           output: {
             path: "about/index.html",
             href: "/about",
-            title: "Team and partnership - DegeSino",
+            title: "Team and partnership - $RedFeg",
             description:
-              "Discover our passionate team, working hard to bring theDegeSinouniverse to life",
+              "Discover our passionate team, working hard to bring the$RedFeguniverse to life",
             image: "chumbi-valley-og.jpg",
             imageWidth: 1200,
             imageHeight: 630,
