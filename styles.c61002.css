@@ -1264,7 +1264,7 @@ p, a, h1, h2, h4, h4, h5, h6, li, div, span {
 }
 
 .hero-section__parallax {
-    height: 100%;
+    height: 100vh;
     overflow: hidden;
     position: relative
 }
@@ -1300,22 +1300,26 @@ p, a, h1, h2, h4, h4, h5, h6, li, div, span {
 .hero-section__parallax .mountains {
     bottom: .08rem;
     height: 6.33rem;
-    z-index: 15
+    z-index: 15;
+    margin-left: -2rem !important;
+   
 }
 
 .hero-section__parallax .forest {
     bottom: .17rem;
     height: 4.76rem;
-    z-index: 25
+    z-index: 25;
+    display: none;
 }
 
 .hero-section__parallax .cliff {
     bottom: .22rem;
-    height: 4.8rem;
+    height: 8.8rem;
     left: auto;
     right: .04rem;
-    width: 5.08rem;
-    z-index: 30
+    width: 10.08rem;
+    z-index: 30;
+    margin-bottom: -2rem;
 }
 
 @media (max-width:1024px) {
@@ -1442,7 +1446,8 @@ p, a, h1, h2, h4, h4, h5, h6, li, div, span {
 }
 
 .about-section {
-    padding-bottom: .87rem
+    padding-bottom: .87rem;
+    z-index: 41;
 }
 
 .about-section__content {
@@ -1584,7 +1589,8 @@ p, a, h1, h2, h4, h4, h5, h6, li, div, span {
 }
 
 .gameplay-section {
-    padding-bottom: 1.3rem
+    padding-bottom: 1.3rem;
+    display: none !important;
 }
 
 .gameplay-section__contents {
@@ -5683,7 +5689,7 @@ html {
     min-height: 6.18rem;
     overflow: hidden;
     position: relative;
-    width: 100%
+    display: none !important;
 }
 
 .token-section__image .main-img {
@@ -5731,7 +5737,7 @@ html {
 
 .token-section__contents {
     align-items: flex-start;
-    display: flex;
+    display: none !important;
     flex-direction: row;
     justify-content: space-between
 }
@@ -5784,8 +5790,8 @@ html {
 
     .token-section__image {
         height: 3rem;
-        margin-bottom: .74rem;
-        min-height: 3rem
+        display: none !important;
+       
     }
 
     .token-section__image .leaves-top__wrap {
@@ -5861,7 +5867,7 @@ html {
 
 .cta-section__contents {
     align-items: center;
-    display: flex;
+    display: none !important;
     justify-content: space-between;
     padding-bottom: .64rem;
     padding-top: .6rem
