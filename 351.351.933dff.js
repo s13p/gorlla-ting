@@ -2619,9 +2619,37 @@
                       (0, r.jsx)("h2", {
                         className: "title-h1 cards-section__title",
                         ref: _,
-                        children: "$RedFeg...",
+                        children: "TOKENOMICS",
                       }),
                       S &&
+                        (0, r.jsxs)("p", {
+                          className: "desc-1 cards-section__desc",
+                          ref: T,
+                          children: [
+                            (0, r.jsxs)(g.r, {
+                              className: "desc-1 color-green anim-span",
+                              children: [
+                                "Chumbi ",
+                                (0, r.jsx)("span", {
+                                  className: "desc-1 color-espalier",
+                                  children: "/chumm-bee/",
+                                }),
+                                " are mystical, elemental NFT creatures who will",
+                              ],
+                            }),
+                            y.desktop.map((e, t) =>
+                              (0, r.jsx)(
+                                g.r,
+                                {
+                                  className: "desc-1 color-green anim-span",
+                                  children: e,
+                                },
+                                t
+                              )
+                            ),
+                          ],
+                        }),
+                                        S &&
                         (0, r.jsxs)("p", {
                           className: "desc-1 cards-section__desc",
                           ref: T,

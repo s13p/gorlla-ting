@@ -381,17 +381,17 @@ html {
 
 :root {
     --color-white: #fff;
-    --color-green: #3d0c0c ;
-    --color-green-2: #4c1310;
-    --color-green-3: #4c1310;
+    --color-green: #539369;
+    --color-green-2: #274e34;
+    --color-green-3: #33573f;
     --color-green-4: #d7f7e2;
-    --color-green-jungles: #440f0f ;
-    --color-green-dark: #4c1310;
-    --color-green-dark-80: #4c13106c;
-    --color-green-pl: #4c1310;
-    --color-deep-fir: #4c1310;
-    --color-espalier: #2c0c0c ;
-    --color-everglade: #3d0202 ;
+    --color-green-jungles: #1b2a22;
+    --color-green-dark: #101615;
+    --color-green-dark-80: rgba(16, 22, 21, .502);
+    --color-green-pl: #202c29;
+    --color-deep-fir: #1a3724;
+    --color-espalier: #305b3f;
+    --color-everglade: #264632;
     --color-black-field: #191e20;
     --color-black-1: #1e2225;
     --color-black-2: #22252a;

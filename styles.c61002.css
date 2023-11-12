@@ -1268,6 +1268,13 @@ p, a, h1, h2, h4, h4, h5, h6, li, div, span {
     overflow: hidden;
     position: relative
 }
+@media only screen and (max-width: 600px) {
+    .hero-section__parallax {
+        height: 100%;
+        overflow: hidden;
+        position: relative
+    }
+    }
 
 .hero-section__parallax .cliff,
 .hero-section__parallax .forest,
@@ -1368,7 +1375,7 @@ p, a, h1, h2, h4, h4, h5, h6, li, div, span {
 
     .hero-section__parallax .cliff {
         bottom: .07rem;
-        height: 3.82rem;
+        height: .82rem;
         width: 1.92rem
     }
 
@@ -1412,23 +1419,28 @@ p, a, h1, h2, h4, h4, h5, h6, li, div, span {
     .hero-section__parallax .sun {
         bottom: .17rem;
         left: .07rem;
-        width: 2.31rem
+        width: 3.31rem;
+        height: 1.7rem,;
     }
 
     .hero-section__parallax .mountains {
         bottom: .12rem;
-        width: 100%
+        width: 1rem;
+        left: 0rem;
+        z-index: 4;
+        position: absolute;
     }
 
     .hero-section__parallax .forest {
         bottom: 0;
-        height: 1.91rem
+        height: 1.91rem;
+
     }
 
     .hero-section__parallax .cliff {
-        bottom: .06rem;
-        height: 1.95rem;
-        right: -.08rem;
+        bottom: 2.06rem;
+        height: 2.95rem;
+        right: 0rem;
         width: .98rem
     }
 
@@ -1856,6 +1868,12 @@ p, a, h1, h2, h4, h4, h5, h6, li, div, span {
     top: 0;
     width: 100%
 }
+@media only screen and (max-width: 600px) {
+
+        .community-section__parallax{
+                height: 100vh;
+    }
+    }
 
 .community-section__parallax .character,
 .community-section__parallax .creepers,
@@ -1886,6 +1904,7 @@ p, a, h1, h2, h4, h4, h5, h6, li, div, span {
     bottom: 0;
     height: 3.45rem;
     right: 0;
+    display: none;
     width: 7.47rem;
     z-index: 10
 }
@@ -1980,6 +1999,7 @@ p, a, h1, h2, h4, h4, h5, h6, li, div, span {
         bottom: -.02rem;
         height: auto;
         right: -.03rem;
+        display: none;
         width: 4.17rem
     }
 
@@ -2028,13 +2048,14 @@ p, a, h1, h2, h4, h4, h5, h6, li, div, span {
     }
 
     .community-section__parallax {
-        height: 5.81rem
+        height: 100vh
     }
 
     .community-section__parallax .mountain {
         bottom: .03rem;
         right: -.01rem;
-        width: 2.07rem
+        width: 2.07rem;
+
     }
 
     .community-section__parallax .hill {
@@ -2043,8 +2064,10 @@ p, a, h1, h2, h4, h4, h5, h6, li, div, span {
     }
 
     .community-section__parallax .character {
-        left: -.02rem;
-        width: 2.72rem
+        left: .02rem;
+        width: 4.72rem;
+        height: 2rem;
+        margin-bottom: 0.7rem;
     }
 
     .community-section__parallax .flower {
