@@ -3154,15 +3154,15 @@
         g = s(6341);
       const h = {
           desktop: [
-            "Discover all that $RedFeg ",
+            "",
         
           ],
           tablet: [
-            "Discover all that $RedFeg has to offer",
+            "",
   ,
           ],
           mobile: [
-            "Discover all that $RedFeg",
+            "",
         
           ],
         },
@@ -3483,7 +3483,7 @@
                       (0, r.jsx)("h2", {
                         className: "title-h1 gameplay-section__title",
                         ref: s,
-                        children: " Gameplay Features ",
+                        children: " TOKENOMICS ",
                       }),
                       (0, r.jsx)("p", {
                         className: "desc-1 gameplay-section__desc",
@@ -4495,17 +4495,15 @@
               imgSrcJpg: `${s(43590)}`,
               imgSrcWebp: `${s(4478)}`,
               imgAlt: "A",
-              title: "Decentralized Dynamics",
+              title: "SUPPLY",
               desc: {
                 desktop:
-                  " Experience a truly transparent and tamper-proof gaming system, ensuring fair play.",
+                  "100 BILLION",
                 tablet: [
-                  " Experience a truly transparent and tamper-proof gaming system, ensuring fair play.",
+                  "100 BILLION",
                 ],
                 mobile: [
-                  " Experience a truly transparent and",
-                   "tamper-proof gaming system",
-                    "ensuring fair play.",
+                  "100 BILLION",
                 ],
               },
             },
@@ -4513,17 +4511,15 @@
               imgSrcJpg: `${s(68569)}`,
               imgSrcWebp: `${s(41317)}`,
               imgAlt: "Ch",
-              title: "Crypto Rewards",
+              title: "TAX",
               desc: {
                 desktop:
-                  "Earn as you play! Each win isn't just a score, but a potential addition to your crypto wallet.",
+                  "0 / 0",
                 tablet: [
-                  "Earn as you play! Each win isn't just a score, but a potential addition to your crypto wallet.",
+                  "0 / 0",
                 ],
                 mobile: [
-                  "Earn as you play! Each win isn't just a",
-                   "score, but a potential addition", 
-                "to your crypto wallet.",
+                  "0 / 0",
                 ],
               },
             },
@@ -4532,18 +4528,17 @@
               imgSrcWebp: `${s(42774)}`,
               imgAlt:
                 "A Spark$RedFegin front of a table with many ressources and ingredients ready to craft something",
-              title: "Interoperable Assets",
+              title: "LIQUIDITY LOCKED",
               desc: {
                 desktop:
-                  "Utilize unique NFTs (non-fungible tokens) within the games, making each playthrough distinct.",
+                  "",
                 tablet: [
-                  "Utilize unique NFTs (non-fungible tokens) within the games, making each playthrough distinct.",
+                  "",
                 ],
                 mobile: [
               
-                  "Utilize unique NFTs (non-fungible tokens)",
-                  " within the games, making each", 
-                  "playthrough distinct.",
+                  "",
+                
               
                 ],
               },
@@ -4553,18 +4548,16 @@
               imgSrcWebp: `${s(94410)}`,
               imgAlt:
                 "Mosdssssssddsdsdsdsdsd",
-              title: "Seamless Integration",
+              title: "CA",
               desc: {
                 desktop:
-                  "Dive into intuitive gameplay with easy-to-use interfaces, optimized for both seasoned crypto enthusiasts and $RedFeg lovers.",
+                  "0x000000000000000000000000000",
                 tablet: [
-                  "Dive into intuitive gameplay with easy-to-use interfaces, optimized for both seasoned crypto enthusiasts and $RedFeg lovers.",
+                  "0x000000000000000000000000000",
                 ],
                 mobile: [
-                  "Dive into intuitive gameplay with",
-                  "easy-to-use interfaces, optimized for",
-                  "both seasoned crypto enthusiasts",
-                  "and $RedFeg lovers.",
+           
+                    "0x000000000000000000000000000",
                 
                 ],
               },
