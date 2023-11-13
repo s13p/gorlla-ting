@@ -24,7 +24,7 @@
               ref: (e) => {
                 t.current = e;
               },
-              src: "https://cdn.whyp.it/7cfd576c-479e-472e-91b6-b76ca6ebae84.mp3?alt=media",
+              src: "https://whyp.it/tracks/137071/drums-of-drakkar-viking-and-medieval-musicmp3-160k?token=Py8RR",
               autoPlay: !1,
               loop: !0,
               volume: 0.3,
