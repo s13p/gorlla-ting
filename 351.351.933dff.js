@@ -4924,7 +4924,7 @@
           templateName: "src/html/index.ejs",
           output: {
             path: "tokens/index.html",
-            href: "/tokens",
+            href: "https://app.uniswap.org/swap",
             title: "$RedFeg Token & Lucky Stars - $RedFeg",
             description:
               "Discover how $RedFeg's on-chain token and off-chain currency are deeply integrated into every aspect of the $RedFeg ecosystem",
