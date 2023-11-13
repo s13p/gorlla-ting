@@ -24,7 +24,7 @@
               ref: (e) => {
                 t.current = e;
               },
-              src: "https://drive.google.com/file/d/1YYKtApJ7vQayqwNSt2lxOJ81Qqlam8ht?alt=media",
+              src: "https://cdn.whyp.it/7cfd576c-479e-472e-91b6-b76ca6ebae84.mp3?alt=media",
               autoPlay: !1,
               loop: !0,
               volume: 0.3,
