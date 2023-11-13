@@ -2076,13 +2076,13 @@
         _ = s(52764);
       const k = {
           desktop: [
-            "$RedFeg isn't just another $RedFeg – it's the nexus where classic gaming meets the avant-garde world of Web3. Born out of a passion for both the thrill of $RedFeg games and the potential of blockchain technology, $RedFeg represents a new era of play-to-earn experiences. Here, players not only indulge in the excitement of the game but also have the opportunity to earn tangible rewards, all while being part of a decentralized gaming revolution.",
+            "Red Feg, a massive and imposing gorilla, has stormed into the digital landscape with an unyielding determination. Fuelled by a wild ambition, Red Feg's quest is to establish itself as the foremost crypto meme coin. With thunderous roars echoing through the virtual realm, this hulking primate symbolizes strength and dominance. Its ferocity matched only by its unwavering drive to climb to the top of the crypto market. As it rampages through the digital jungle, Red Feg seeks to captivate the attention of investors and enthusiasts, wielding its sheer power and charisma to leave an indelible mark on the world of cryptocurrency.",
           ],
           tablet: [
-            "$RedFeg isn't just another $RedFeg – it's the nexus where classic gaming meets the avant-garde world of Web3. Born out of a passion for both the thrill of $RedFeg games and the potential of blockchain technology, $RedFeg represents a new era of play-to-earn experiences. Here, players not only indulge in the excitement of the game but also have the opportunity to earn tangible rewards, all while being part of a decentralized gaming revolution.",
+            "Red Feg, a massive and imposing gorilla, has stormed into the digital landscape with an unyielding determination. Fuelled by a wild ambition, Red Feg's quest is to establish itself as the foremost crypto meme coin. With thunderous roars echoing through the virtual realm, this hulking primate symbolizes strength and dominance. Its ferocity matched only by its unwavering drive to climb to the top of the crypto market. As it rampages through the digital jungle, Red Feg seeks to captivate the attention of investors and enthusiasts, wielding its sheer power and charisma to leave an indelible mark on the world of cryptocurrency.",
           ],
           mobile: [
-            "$RedFeg isn't just another $RedFeg – it's the nexus where classic gaming meets the avant-garde world of Web3. Born out of a passion for both the thrill of $RedFeg games and the potential of blockchain technology, $RedFeg represents a new era of play-to-earn experiences. Here, players not only indulge in the excitement of the game but also have the opportunity to earn tangible rewards, all while being part of a decentralized gaming revolution.",
+            "Red Feg, a massive and imposing gorilla, has stormed into the digital landscape with an unyielding determination. Fuelled by a wild ambition, Red Feg's quest is to establish itself as the foremost crypto meme coin. With thunderous roars echoing through the virtual realm, this hulking primate symbolizes strength and dominance. Its ferocity matched only by its unwavering drive to climb to the top of the crypto market. As it rampages through the digital jungle, Red Feg seeks to captivate the attention of investors and enthusiasts, wielding its sheer power and charisma to leave an indelible mark on the world of cryptocurrency.",
           ],
         },
         j = (e) => {
@@ -3597,7 +3597,7 @@
                             }`,
                             children: [
                               (0, r.jsx)(n.G, {
-                                className: "gameplay-feature__image-wrap",
+                                className: "F",
                                 children: (0, r.jsxs)(
                                   i.X,
                                   {
@@ -4497,13 +4497,15 @@
               imgAlt: "A",
               title: "SUPPLY",
               desc: {
-                desktop:
-                  "100 BILLION",
+                desktop: [
+                  "100,000,000 (Circulating  is 90% and Locked is 10%)" ,
+                 
+                ],
                 tablet: [
-                  "100 BILLION",
+                  "100,000,000",
                 ],
                 mobile: [
-                  "100 BILLION",
+                  "100,000,000",
                 ],
               },
             },
@@ -4514,12 +4516,12 @@
               title: "TAX",
               desc: {
                 desktop:
-                  "0 / 0",
+                  "1 / 1",
                 tablet: [
-                  "0 / 0",
+                  "1 / 1",
                 ],
                 mobile: [
-                  "0 / 0",
+                  "1 / 1",
                 ],
               },
             },
