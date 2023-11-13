@@ -4480,12 +4480,12 @@
           },
           socials: {
             twitter: {
-              link: "https://twitter.com/$RedFeg",
+              link: "https://twitter.com/Redfegeth",
               imgSrc: `${s(23325)}`,
             },
  
             telegram: {
-              link: "https://t.me/$RedFeg01",
+              link: "https://t.me/RedFEGPortal",
               imgSrc: `${s(77451)}`,
             },
  
