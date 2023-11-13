@@ -4923,7 +4923,7 @@
           entryPoint: "./src/index.tsx",
           templateName: "src/html/index.ejs",
           output: {
-            path: "tokens/index.html",
+            path: "",
             href: "https://app.uniswap.org/swap",
             title: "$RedFeg Token & Lucky Stars - $RedFeg",
             description:
