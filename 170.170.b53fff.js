@@ -24,7 +24,7 @@
               ref: (e) => {
                 t.current = e;
               },
-              src: "https://firebasestorage.googleapis.com/v0/b/chumbi-valley-public-s23i9op2r/o/background-music.mp3?alt=media",
+              src: "https://drive.google.com/file/d/1YYKtApJ7vQayqwNSt2lxOJ81Qqlam8ht/view?alt=media",
               autoPlay: !1,
               loop: !0,
               volume: 0.3,
