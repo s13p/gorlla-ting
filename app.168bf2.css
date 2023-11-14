@@ -598,7 +598,7 @@ html {
 
 .mob-text,
 .nav-text {
-    color: var(--color-white);
+    color: red;
     font-family: var(--main-font);
     font-weight: var(--font-weight-400)
 }
@@ -877,6 +877,7 @@ html {
 
 .button.btn-secondary {
     background-color: #0000;
+    display: none;
     border: 1px solid var(--color-white);
     border-radius: .24rem;
     padding: .08rem .24rem;

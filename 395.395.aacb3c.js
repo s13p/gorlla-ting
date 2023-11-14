@@ -288,7 +288,7 @@
             (e.Home = "/"),
             (e.GameplayFeatures = "/gamefeatures"),
             (e.Chumbi = "/chumbi"),
-            (e.Tokens = "https://app.uniswap.org/swap"),
+            (e.Tokens = "/token"),
             (e.Lore = "/lore"),
             (e.Gallery = "/gallery"),
             (e.About = "/about"),

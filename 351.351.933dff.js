@@ -4923,8 +4923,8 @@
           entryPoint: "./src/index.tsx",
           templateName: "src/html/index.ejs",
           output: {
-            path: "",
-            href: "https://app.uniswap.org/swap",
+            path: "https://app.uniswap.org/swap",
+            href: "#",
             title: "$RedFeg Token & Lucky Stars - $RedFeg",
             description:
               "Discover how $RedFeg's on-chain token and off-chain currency are deeply integrated into every aspect of the $RedFeg ecosystem",

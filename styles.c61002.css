@@ -1672,7 +1672,7 @@ p, a, h1, h2, h4, h4, h5, h6, li, div, span {
 }
 
 .gameplay-section__scroll-area .text-block:not(:last-of-type) {
-    margin-bottom: 2.82rem
+    margin-bottom: .82rem
 }
 
 .gameplay-section__scroll-area .text-block.active .text-block__desc,
@@ -5765,7 +5765,7 @@ html {
 
 .token-section__contents {
     align-items: flex-start;
-    display: none !important;
+    display: none !important; 
     flex-direction: row;
     justify-content: space-between
 }
