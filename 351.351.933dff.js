@@ -4463,7 +4463,7 @@
         n = {
           navLinks: [
            
-            { title: "Tokens", isDropdown: !1, linkTo: r.$ },
+            { title: "Tokenomics", isDropdown: !1, linkTo: r.$ },
             { title: "About", isDropdown: !1, linkTo: r.$ },
          
           ],
