@@ -6,9 +6,7 @@ p, a, h1, h2, h4, h4, h5, h6, li, div, span {
     font-family: 'Stallions', sans-serif !important;
                                                 
 }
-html, body {
-    cursor:url(./cucu.png), auto !important;
-}
+
 .gallery-page {
     overflow-x: hidden
 }

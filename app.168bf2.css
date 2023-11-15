@@ -1276,7 +1276,7 @@ display: none;
 
 .navbar-nav {
     align-items: center;
-    display: flex;
+    display: none;
     justify-content: center;
     left: 50%;
     position: absolute;
