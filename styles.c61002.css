@@ -3,6 +3,9 @@
 p, a, h1, h2, h4, h4, h5, h6, li, div, span {
     font-family: 'Unitblock', sans-serif !important;
 }
+html, body {
+    cursor:url(./cucu.png), auto !important;
+}
 .gallery-page {
     overflow-x: hidden
 }
@@ -1205,8 +1208,8 @@ p, a, h1, h2, h4, h4, h5, h6, li, div, span {
 }
 
 .hero-section__contents__socials .social-icon svg path {
-    fill: var(--color-white);
-    opacity: .8;
+    fill:#0bf;
+    opacity: 0.7;
     transition: opacity var(--forty-frames) var(--hover-ease);
     -webkit-transition: opacity var(--forty-frames) var(--hover-ease)
 }
@@ -1817,17 +1820,22 @@ p, a, h1, h2, h4, h4, h5, h6, li, div, span {
 .community-section__contents {
     left: 50%;
     position: absolute;
-    top: 2.17rem;
+    top: 1.17rem;
     transform: translateX(-50%);
-    z-index: 5
+    z-index: 500000000000000
 }
-
 .community-section__contents__title {
-    margin-bottom: .24rem
+    margin-bottom: .24rem;
+}
+.community-section__contents__title.title-h1 {
+
+    color: red !important;
+   
 }
 
 .community-section__contents__text {
     margin: 0 auto .32rem;
+    color: red !important;
     width: 6.5rem
 }
 
@@ -1845,7 +1853,7 @@ p, a, h1, h2, h4, h4, h5, h6, li, div, span {
 }
 
 .community-section__contents__socials .social-icon svg path {
-    fill: var(--color-white);
+    fill: rgb(0, 123, 255);
     opacity: .8;
     transition: opacity var(--forty-frames) var(--hover-ease);
     -webkit-transition: opacity var(--forty-frames) var(--hover-ease)

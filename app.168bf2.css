@@ -1,7 +1,10 @@
 
-@import url('https://fonts.cdnfonts.com/css/unitblock');
+ @import url('https://fonts.cdnfonts.com/css/stallions');
+
+                
 p, a, h1, h2, h4, h4, h5, h6, li, div, span {
-    font-family: 'Unitblock', sans-serif !important;
+    font-family: 'Stallions', sans-serif !important;
+                                                
 }
 a,
 abbr,
@@ -877,7 +880,7 @@ html {
 
 .button.btn-secondary {
     background-color: #0000;
-    display: none;
+
     border: 1px solid var(--color-white);
     border-radius: .24rem;
     padding: .08rem .24rem;

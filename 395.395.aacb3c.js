@@ -279,7 +279,7 @@
                     n++
                   )
                     t[n] = arguments[n];
-                  return "/" + t.filter(Boolean).join("/");
+                  return "";
                 }),
                 (e.add = function (e, t) {
                   return t ? e + "/" + t : e;

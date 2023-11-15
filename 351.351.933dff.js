@@ -4464,11 +4464,13 @@
             { title: "About", isDropdown: !1, linkTo: r.$ },
          
           ],
-          navCtaBtn: { title: "Buy $RedFeg", linkTo: r.$.Tokens + "#" },
+          navCtaBtn: { title: "Buy $RedFeg",
+                       isExternal: !1,  
+                        linkTo:  {url: "https://app.uniswap.org/"} },
           bannerContent: {
             title: "Join our community!",
             cta: "",
-            ctaLink: { isExternal: !1, url: "" },
+            ctaLink: { isExternal: !1, url: "https://app.uniswap.org/" },
           },
           footer: {
             footerLinks: [
@@ -4919,12 +4921,12 @@
           },
         },
         n = {
-          id: "tokens",
+          id: "token",
           entryPoint: "./src/index.tsx",
           templateName: "src/html/index.ejs",
           output: {
-            path: "https://app.uniswap.org/swap",
-            href: "#",
+            path: "token/index.html",
+            href: "/token",
             title: "$RedFeg Token & Lucky Stars - $RedFeg",
             description:
               "Discover how $RedFeg's on-chain token and off-chain currency are deeply integrated into every aspect of the $RedFeg ecosystem",
