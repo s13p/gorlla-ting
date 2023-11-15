@@ -1280,7 +1280,7 @@ display: none;
     justify-content: center;
     left: 50%;
     position: absolute;
-display: none;    transform: translate(-50%)
+   transform: translate(-50%)
 }
 
 .navbar-nav .dropdown,
