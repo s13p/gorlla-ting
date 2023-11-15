@@ -4503,14 +4503,17 @@
               title: "SUPPLY",
               desc: {
                 desktop: [
-                  "100,000,000 (Circulating  is 90% and Locked is 10%)" ,
+                  "100,000,000 " ,
+                  "LIQUIDITY LOCKED",
                  
                 ],
                 tablet: [
                   "100,000,000",
+                  "LIQUIDITY LOCKED",
                 ],
                 mobile: [
                   "100,000,000",
+                  "LIQUIDITY LOCKED",
                 ],
               },
             },
@@ -4530,26 +4533,7 @@
                 ],
               },
             },
-            {
-              imgSrcJpg: `${s(88721)}`,
-              imgSrcWebp: `${s(42774)}`,
-              imgAlt:
-                "A Spark$RedFegin front of a table with many ressources and ingredients ready to craft something",
-              title: "LIQUIDITY LOCKED",
-              desc: {
-                desktop:
-                  "",
-                tablet: [
-                  "",
-                ],
-                mobile: [
-              
-                  "",
-                
-              
-                ],
-              },
-            },
+          
             {
               imgSrcJpg: `${s(76021)}`,
               imgSrcWebp: `${s(94410)}`,

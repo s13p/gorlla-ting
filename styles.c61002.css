@@ -1674,7 +1674,8 @@ html, body {
 }
 
 .gameplay-section__scroll-area .text-block__desc {
-    width: 3.28rem
+    width:2.28rem;
+    display: block
 }
 
 .gameplay-section__scroll-area .text-block:not(:last-of-type) {
