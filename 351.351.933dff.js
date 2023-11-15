@@ -2076,13 +2076,16 @@
         _ = s(52764);
       const k = {
           desktop: [
-            "In the forgotten echoes of time, Red Feg, a colossal ape, once harmonized with his kin until an unsettling power awakened within him. Unmatched in strength and ferocity, he became a force of rebellion, vanishing into the ominous depths of the jungle.Fleeing into the jungle, he stumbled upon a secluded city, wreaking havoc upon everything in his path. The legends diverge—some claim he's locked away, while others believe he met his demise. His whereabouts remain a mystery waiting to be rediscovered, and we might just have finally found our answer….",
+            "In the forgotten echoes of time, Red Feg, a colossal ape, once harmonized with his kin until an unsettling power awakened within him. Unmatched in strength and ferocity, he became a force of rebellion, vanishing into the ominous depths of the jungle.",
+            "Fleeing into the jungle, he stumbled upon a secluded city, wreaking havoc upon everything in his path. The legends diverge—some claim he's locked away, while others believe he met his demise. His whereabouts remain a mystery waiting to be rediscovered, and we might just have finally found our answer….",
           ],
           tablet: [
-            "In the forgotten echoes of time, Red Feg, a colossal ape, once harmonized with his kin until an unsettling power awakened within him. Unmatched in strength and ferocity, he became a force of rebellion, vanishing into the ominous depths of the jungle.Fleeing into the jungle, he stumbled upon a secluded city, wreaking havoc upon everything in his path. The legends diverge—some claim he's locked away, while others believe he met his demise. His whereabouts remain a mystery waiting to be rediscovered, and we might just have finally found our answer….",
+            "In the forgotten echoes of time, Red Feg, a colossal ape, once harmonized with his kin until an unsettling power awakened within him. Unmatched in strength and ferocity, he became a force of rebellion, vanishing into the ominous depths of the jungle.",
+            "Fleeing into the jungle, he stumbled upon a secluded city, wreaking havoc upon everything in his path. The legends diverge—some claim he's locked away, while others believe he met his demise. His whereabouts remain a mystery waiting to be rediscovered, and we might just have finally found our answer….",
           ],
           mobile: [
-            "In the forgotten echoes of time, Red Feg, a colossal ape, once harmonized with his kin until an unsettling power awakened within him. Unmatched in strength and ferocity, he became a force of rebellion, vanishing into the ominous depths of the jungle.Fleeing into the jungle, he stumbled upon a secluded city, wreaking havoc upon everything in his path. The legends diverge—some claim he's locked away, while others believe he met his demise. His whereabouts remain a mystery waiting to be rediscovered, and we might just have finally found our answer….",
+            "In the forgotten echoes of time, Red Feg, a colossal ape, once harmonized with his kin until an unsettling power awakened within him. Unmatched in strength and ferocity, he became a force of rebellion, vanishing into the ominous depths of the jungle.",
+            "Fleeing into the jungle, he stumbled upon a secluded city, wreaking havoc upon everything in his path. The legends diverge—some claim he's locked away, while others believe he met his demise. His whereabouts remain a mystery waiting to be rediscovered, and we might just have finally found our answer….",
           ],
         },
         j = (e) => {
