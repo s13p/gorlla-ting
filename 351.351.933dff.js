@@ -4485,7 +4485,7 @@
           },
           socials: {
             twitter: {
-              link: "https://twitter.com/Redfegeth",
+              link: "https://twitter.com/Redfegerc",
               imgSrc: `${s(23325)}`,
             },
  
@@ -4500,19 +4500,19 @@
               imgSrcJpg: `${s(43590)}`,
               imgSrcWebp: `${s(4478)}`,
               imgAlt: "A",
-              title: "SUPPLY",
+              title: "SUPPLY: 1 billion",
               desc: {
                 desktop: [
-                  "100,000,000 " ,
+                  
                   "LIQUIDITY LOCKED",
                  
                 ],
                 tablet: [
-                  "100,000,000",
+                  
                   "LIQUIDITY LOCKED",
                 ],
                 mobile: [
-                  "100,000,000",
+                  
                   "LIQUIDITY LOCKED",
                 ],
               },
