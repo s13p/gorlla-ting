@@ -4504,16 +4504,16 @@
               desc: {
                 desktop: [
                   
-                  "LIQUIDITY LOCKED",
+                  "LIQUIDITY BURN",
                  
                 ],
                 tablet: [
                   
-                  "LIQUIDITY LOCKED",
+                  "LIQUIDITY BURN",
                 ],
                 mobile: [
                   
-                  "LIQUIDITY LOCKED",
+                  "LIQUIDITY BURN",
                 ],
               },
             },
@@ -4539,7 +4539,7 @@
               imgSrcWebp: `${s(94410)}`,
               imgAlt:
                 "Mosdssssssddsdsdsdsdsd",
-              title: "CA: 0x0000000000000000000000000000",
+              title: "CA: ",
               desc: {
                 desktop:
                   "",
