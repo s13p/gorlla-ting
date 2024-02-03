@@ -4469,11 +4469,11 @@
           ],
           navCtaBtn: { title: "Buy $RedFeg",
                        isExternal: !1,  
-                        linkTo:  {url: "https://app.uniswap.org/"} },
+                        linkTo:  {url: "https://raydium.io/swap/"} },
           bannerContent: {
             title: "Join our community!",
             cta: "",
-            ctaLink: { isExternal: !1, url: "https://app.uniswap.org/" },
+            ctaLink: { isExternal: !1, url: "https://raydium.io/swap/" },
           },
           footer: {
             footerLinks: [
@@ -4485,12 +4485,12 @@
           },
           socials: {
             twitter: {
-              link: "https://twitter.com/Redfegerc",
+              link: "https://twitter.com/",
               imgSrc: `${s(23325)}`,
             },
  
             telegram: {
-              link: "https://t.me/RedFEGPortal",
+              link: "https://t.me/",
               imgSrc: `${s(77451)}`,
             },
  
@@ -4539,7 +4539,7 @@
               imgSrcWebp: `${s(94410)}`,
               imgAlt:
                 "Mosdssssssddsdsdsdsdsd",
-              title: "CA: 0x24765075759Fa3da2F089aC64c8ABF038153bf3e",
+              title: "CA: 0x0000000000000000000000000000",
               desc: {
                 desktop:
                   "",
